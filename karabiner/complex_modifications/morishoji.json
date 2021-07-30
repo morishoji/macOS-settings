@@ -9,7 +9,7 @@
 		    "from":{
 			"key_code":"open_bracket",
 			"modifiers":{
-			    "mandatory":["control"]
+			    "mandatory":[ "control" ]
 			}
 		    },
 		    "to": [ { "key_code":"escape" } ]
