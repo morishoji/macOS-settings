@@ -1,2 +1,3 @@
 # macOS-settings
-My Setting files for MacOS 
+
+自分の MacOS の設定ファイルを保存しておく用のリポジトリです。
