@@ -1,0 +1,20 @@
+{
+    "title":"morishoji custom",
+    "rules":[
+	{
+	    "description":"ctrl-[ always works as ESC",
+	    "manipulators":[
+		{
+		    "type":"basic",
+		    "from":{
+			"key_code":"open_bracket",
+			"modifiers":{
+			    "mandatory":["control"]
+			}
+		    },
+		    "to": [ { "key_code":"escape" } ]
+		}
+	    ]
+	}
+    ]
+}
